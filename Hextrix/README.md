@@ -1,4 +1,4 @@
-# hextrix112
+# Hextrix112
 
 Hextrix is a game similar to Tetris in the sense that the player will be given
 predetermined pieces and must fill up empty rows to earn points. The board
